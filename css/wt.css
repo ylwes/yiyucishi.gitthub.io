@@ -1,0 +1,51 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	width: 1200px;
+	height: 1200px;
+	background-color: #9cd68ed9;
+	background-image: url("../img/bj2.png");
+}
+.header{
+	height:	 80px;
+	width: 1500px;
+	background: #FFFFFF;
+	box-sizing: border-box;
+	border-bottom: 2px solid #000000;
+	background-color: #9cd68ed9;
+	
+}
+.p{
+	position: absolute;
+	left: 20px;
+	top: 20px;
+	font-size: 30px;
+	color: #ffaa7f;
+	color: #000000;
+}
+.nav-box{
+	max-width: 1000px;
+	margin: 10px auto;
+	position: absolute;
+	height: 40px;
+	padding-top: 20px;
+    right: 50px;
+	justify-content: space-between;
+	color: #ffaa7f;
+	font-size: 20px;
+}
+.wenti{
+	position: relative;
+	left: 600px;
+	top: 300px;
+	width: 900px;
+	height: 1200px;
+	line-height: 40px;
+	font-size: 20px;
+}
+.tu{
+	position: absolute;
+	left: 300px;
+}
